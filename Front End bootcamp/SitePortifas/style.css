@@ -1,0 +1,25 @@
+body {
+  background: lightgrey;
+  margin: 0;
+}
+
+main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+header nav {
+  background-color: #bb7916;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+header nav a {
+  text-decoration: none;
+  color: white;
+}
+header h1 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
