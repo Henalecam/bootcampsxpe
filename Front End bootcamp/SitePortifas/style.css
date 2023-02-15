@@ -1,25 +1,29 @@
 body {
   background: lightgrey;
-  margin: 0;
-}
+  margin: 0; }
 
 main {
   width: 1200px;
-  margin: 0 auto;
-}
+  margin: 0 auto; }
 
 header nav {
   background-color: #bb7916;
   display: flex;
   justify-content: space-evenly;
-  padding: 20px;
-}
-header nav a {
-  text-decoration: none;
-  color: white;
-}
+  padding: 20px; }
+  header nav a {
+    text-decoration: none;
+    color: white; }
 header h1 {
-  text-align: center;
-}
+  text-align: center; }
+
+#about {
+  display: flex; }
+  #about #about_photo {
+    max-width: 200px;
+    height: auto; }
+  #about #about_text-cnt {
+    background-color: white;
+    padding: 50px; }
 
 /*# sourceMappingURL=style.css.map */
