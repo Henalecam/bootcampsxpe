@@ -19,11 +19,32 @@ header h1 {
 
 #about {
   display: flex; }
-  #about #about_photo {
+  #about #about__photo {
     max-width: 200px;
     height: auto; }
-  #about #about_text-cnt {
+  #about #about__text-cnt {
     background-color: white;
     padding: 50px; }
+
+#quote {
+  background-color: #794809;
+  text-align: center;
+  color: white;
+  padding: 20px 0; }
+  #quote #quote__cite {
+    font-size: 1.5em; }
+
+#job-exp {
+  background-color: #c8c8c8; }
+  #job-exp #job-exp__experience .jog-exp__jobs {
+    background-color: #fcc01a; }
+    #job-exp #job-exp__experience .jog-exp__jobs .job-exp__company-logo {
+      max-width: 100px;
+      height: auto; }
+  #job-exp #job-exp_skills {
+    background-color: white; }
+
+#education {
+  background-color: white; }
 
 /*# sourceMappingURL=style.css.map */
