@@ -1,1 +1,10 @@
-{"nextID":10,"accounts":[{"id":1,"name":"Henrique Alexandre","balance":1523},{"id":2,"name":"Roberto Fonseca","balance":4300},{"id":3,"name":"Roberto Alexandre","balance":1024.1},{"id":4,"name":"Carlos Alberto","balance":7434.25},{"id":5,"name":"Ricardo Almeida","balance":5623.27},{"id":6,"name":"Josevaldo Ribeiro","balance":2353.2},{"id":7,"name":"Alexandre Camargo","balance":2370.2},{"id":8,"name":"Arlindo Aurelio","balance":6132.52}]}
+{
+  "nextID": 3,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Henrique Alexandre",
+      "balance": 5214.1
+    }
+  ]
+}

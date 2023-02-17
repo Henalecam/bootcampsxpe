@@ -1,0 +1,13 @@
+2023-02-17T23:41:29.479Z [my-bank-api.] [error]: Cannot set properties of undefined (setting 'balance')
+2023-02-17T23:41:52.004Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:41:59.625Z [my-bank-api.] [info]: PUT /account {"id":3,"name":"Roberto Alexandre","balance":1014.1}
+2023-02-17T23:42:04.961Z [my-bank-api.] [info]: GET /account/:id
+2023-02-17T23:42:20.808Z [my-bank-api.] [info]: GET /account/:id
+2023-02-17T23:42:49.290Z [my-bank-api.] [info]: POST /account {"id":1,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-17T23:42:55.189Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
+2023-02-17T23:43:02.476Z [my-bank-api.] [info]: POST /account {"id":2,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-17T23:43:07.834Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
+2023-02-17T23:43:48.248Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:43:52.966Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
+2023-02-17T23:44:06.530Z [my-bank-api.] [info]: PATCH /account/updateBalance {"id":2,"balance":1024.1}
+2023-02-17T23:44:11.451Z [my-bank-api.] [info]: DELETE /account/:id - 2
