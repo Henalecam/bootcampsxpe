@@ -6,8 +6,50 @@
 2023-02-17T23:42:49.290Z [my-bank-api.] [info]: POST /account {"id":1,"name":"Henrique Alexandre","balance":5214.1}
 2023-02-17T23:42:55.189Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
 2023-02-17T23:43:02.476Z [my-bank-api.] [info]: POST /account {"id":2,"name":"Henrique Alexandre","balance":5214.1}
-2023-02-17T23:43:07.834Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
+2023-02-17T23:43:07.834Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"RobSerto Alexandre","balance":1014.1}
 2023-02-17T23:43:48.248Z [my-bank-api.] [info]: API Started!
 2023-02-17T23:43:52.966Z [my-bank-api.] [info]: PUT /account {"id":2,"name":"Roberto Alexandre","balance":1014.1}
 2023-02-17T23:44:06.530Z [my-bank-api.] [info]: PATCH /account/updateBalance {"id":2,"balance":1024.1}
 2023-02-17T23:44:11.451Z [my-bank-api.] [info]: DELETE /account/:id - 2
+2023-02-17T23:51:08.452Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:52:02.540Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:52:12.915Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:52:31.598Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:53:06.572Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:54:53.682Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:56:42.318Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:56:49.971Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:58:14.477Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:58:26.308Z [my-bank-api.] [info]: API Started!
+2023-02-17T23:59:05.418Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:00:17.514Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:01:53.458Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:03:08.199Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:03:50.091Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:27:32.840Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:27:33.943Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:27:35.651Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:27:37.035Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:27:39.188Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:27:39.877Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:27:42.178Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:29:55.085Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:34:00.941Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:34:05.732Z [my-bank-api.] [info]: POST /account {"id":3,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:08.090Z [my-bank-api.] [info]: POST /account {"id":4,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:08.578Z [my-bank-api.] [info]: POST /account {"id":5,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:09.029Z [my-bank-api.] [info]: POST /account {"id":6,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:09.453Z [my-bank-api.] [info]: POST /account {"id":7,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:09.833Z [my-bank-api.] [info]: POST /account {"id":8,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:10.206Z [my-bank-api.] [info]: POST /account {"id":9,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:10.622Z [my-bank-api.] [info]: POST /account {"id":10,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:10.963Z [my-bank-api.] [info]: POST /account {"id":11,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:11.369Z [my-bank-api.] [info]: POST /account {"id":12,"name":"Henrique Alexandre","balance":5214.1}
+2023-02-18T00:34:42.948Z [my-bank-api.] [info]: GET /account/:id
+2023-02-18T00:34:46.045Z [my-bank-api.] [info]: GET /account/:id
+2023-02-18T00:35:22.191Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:35:27.771Z [my-bank-api.] [info]: API Started!
+2023-02-18T00:35:31.975Z [my-bank-api.] [info]: GET /account/:id
+2023-02-18T00:35:32.422Z [my-bank-api.] [info]: GET /account/:id
+2023-02-18T00:35:35.729Z [my-bank-api.] [info]: GET /account
+2023-02-18T00:37:06.741Z [my-bank-api.] [info]: GET /account
