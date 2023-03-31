@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Agência de viagens</title>
+  </head>
+  <body>
+    <header>
+      <h1>Agência de viagens</h1>
+    </header>
+    <main>
+      <div>
+        <form id="form">
+          <label for="pais_origem">País de Origem</label>
+          <select id="pais_origem" name="pais_origem">
+            <option value="">Selecione um país</option>
+          </select>
+          <label for="cidade_origem">Cidade de Origem</label>
+          <select id="cidade_origem" name="cidade_origem">
+            <option value="">Selecione uma cidade</option>
+          </select>
+          <label for="pais_destino">País de Destino</label>
+          <select id="pais_destino" name="pais_destino">
+            <option value="">Selecione um país</option>
+          </select>
+          <label for="cidade_destino">Cidade de Destino</label>
+          <select id="cidade_destino" name="cidade_destino">
+            <option value="">Selecione uma cidade</option>
+          </select>
+          <label for="adultos">Adultos</label>
+          <input type="number" id="adultos" name="adultos" min="1" value="1" />
+          <label for="criancas">Crianças</label>
+          <input
+            type="number"
+            id="criancas"
+            name="criancas"
+            min="0"
+            value="0"
+          />
+          <label for="classe_economica">Classe Econômica</label>
+          <input
+            type="radio"
+            id="classe_economica"
+            name="classe"
+            value="economica"
+            checked
+          />
+          <label for="classe_executiva">Classe Executiva</label>
+          <input
+            type="radio"
+            id="classe_executiva"
+            name="classe"
+            value="executiva"
+          />
+          <label for="milhas">Milhas</label>
+          <input
+            type="range"
+            id="milhas"
+            name="milhas"
+            min="0"
+            max="50000"
+            value="30000"
+          />
+          <p id="preco_passagem"></p>
+          <button onclick="calcularPrecoPassagem()" type="button">
+            Calcular
+          </button>
+          <div id="resultado"></div>
+        </form>
+      </div>
+    </main>
+    <footer>
+      <p>
+        Desenvolvido por <a href="https://github.com/Henalecam">Henrique</a>
+      </p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
